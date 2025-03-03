@@ -31,8 +31,8 @@ A Flutter app with Firebase Authentication for user sign-up, login, and logout f
 ### Steps to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/flutter-auth-app.git
-   cd flutter-auth-app
+   git clone https://github.com/yaadiOroko430/Authentication-in-flutter.git
+   cd Project-1
    ```
 2. Install dependencies:
    ```sh
